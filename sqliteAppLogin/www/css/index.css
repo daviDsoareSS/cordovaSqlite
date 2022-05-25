@@ -1,0 +1,38 @@
+body{
+    
+    background: linear-gradient(to right, rgb(57, 24, 222),rgb(146, 29, 225));
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+.app{
+    text-align: center;
+    color: antiquewhite;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+input{
+    height: 23px;
+    border-radius: 10px;
+}
+button{
+    cursor: pointer;
+    font-weight: bolder;
+    padding: 5px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px black;
+    border: none;
+    font-size: 15px;
+    font-family: 'Lucida Sans';
+    border-color: black;
+}
+#btnListar{
+    background-color: rgb(92, 105, 247);
+    color: white;
+}
+#btnInserir{
+    background-color: rgb(115, 239, 146);
+}
